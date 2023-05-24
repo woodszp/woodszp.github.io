@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhiping Wu / woodszp"
+title                    : "Zhiping Wu"
 title_separator          : "-"
 name                     : &name "Zhiping Wu"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhiping Wu"
-  avatar           : "profile.png"
+  avatar           : "wzp.jpg"
   bio              : "It's me"
   location         : "Nanjing China"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/woodszp"
+  github           : "woodszp"
   google_plus      :
   keybase          :
   instagram        :
