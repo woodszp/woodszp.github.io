@@ -109,6 +109,7 @@ Publications
 </ul>
 </td></tr></tbody></table>
 -->
+
 Awards & Honors
 ======
 <!--
@@ -121,6 +122,7 @@ Awards & Honors
 </li>
 </ul>
 -->
+
 Correspondence
 ======
 <p>Email:
