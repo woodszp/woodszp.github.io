@@ -70,7 +70,7 @@ Research Interests
 Publications
 ======
 <table class="imgtable"><tbody><tr><td>
-<img src="./Paper/CariMe.png" alt="WSFG" width="220px" height="110px">&nbsp;</td>
+<img src="/images/paperimg/2023_INS_ZhipingWu.pdf" alt="HFFDK" width="220px" height="110px">&nbsp;</td>
 <td align="left"><ul>
 <li><p>Zhiping Wu, <b>Hong Zhao</b>.<br>
  <a href="https://www.sciencedirect.com/science/article/pii/S0020025523005972">Hierarchical Few-Shot Learning with Feature Fusion Driven by Data and Knowledge.</a><br>
