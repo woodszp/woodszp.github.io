@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhiping Wu"
+title: "ZHiping Wu @ R&L Group"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
