@@ -146,4 +146,6 @@ Page updated on 2015.12.2, via <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 -->
 
+<div id="footer">
 <a href="https://clustrmaps.com/site/1bul3"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=8WUKkTLRxM6TZtL83E1BsaExyxZTl-DJv0JTBSJpHxg&cl=ffffff" /></a>
+</div>
