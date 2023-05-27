@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 <table class="imgtable"><tbody><tr><td>
-<a href="/images/wzpTemp.jpg"><img src="/images/wzpTemp.jpg" alt="/images/wzpTemp.jpg" width="240px" height="307px"></a>&nbsp;</td>
+<a href="/images/wzpTemp.jpg"><img src="/images/wzpTemp.jpg" alt="/images/wzpTemp.jpg" width="640px" height="307px"></a>&nbsp;</td>
 <td align="left"><p><b><font size="+3" face="Times New Roman">Zhiping Wu</font> <font size="+3" face="华文楷体">(吴志平)</font></b><br>
 <font size="+2" face="Times New Roman">Research Assistant</font> <font size="+2" face="华文楷体">(科研助理)</font><br><br>
-<a href="https://cs.nju.edu.cn/rl/index_eng.htm">R&L Group</a><br>
+<a href="https://cs.nju.edu.cn/rl/index_eng.htm">Reasoning & Learning Group</a><br>
 <a href="https://hcdata.nju.edu.cn/">National Institute of Healthcare Data Science</a> <br>
 <a href="http://cs.nju.edu.cn/">Department of Computer Science and Technology</a> <br>
 <a href="http://keysoftlab.nju.edu.cn/site/ndjsjx/">State Key Laboratory for Novel Software Technology</a> <br>
@@ -28,15 +28,13 @@ Office: Room 2611, Meng Minwei Building, Gulou Campus of Nanjing University, Nan
 -->
 </td>
 
-<td valign="top" width="236"><a href="http://cs.nju.edu.cn/rl/index_eng.htm" target="_blank"><img height="70" src="/images/rlgroup.jpg" width="236" border="0"></a></td>
+<td valign="top" width="144"><a href="http://cs.nju.edu.cn/rl/index_eng.htm" target="_blank"><img height="70" src="/images/rlgroup.jpg" width="236" border="0"></a></td>
 <td valign="top" width="58"><a href="http://www.nju.edu.cn/" target="_blank"><img height="70" src="/images/nju.jpg" width="58" border="0"></a></td></tr></tbody></table>
 
 Biography
 ======
 <p>
-Currently, I am an Research Assistant of <a href="http://cs.nju.edu.cn/" target="_blank">National Institute of Healthcare Data Science</a> at
-      <a href="http://www.nju.edu.cn/" target="_blank">Nanjing University</a> and a member of<br> 
-      <a href="https://cs.nju.edu.cn/rl/" target="_blank">Reasoning and Learning Research Group</a>, led by professor <a href="https://cs.nju.edu.cn/gaoyang">Yang Gao</a>.<br>
+Currently, I am an Research Assistant of <a href="http://cs.nju.edu.cn/" target="_blank">National Institute of Healthcare Data Science</a> at <a href="http://www.nju.edu.cn/" target="_blank">Nanjing University</a> and a member of <a href="https://cs.nju.edu.cn/rl/" target="_blank">Reasoning and Learning Research Group</a>, led by professor <a href="https://cs.nju.edu.cn/gaoyang">Yang Gao</a>.<br>
 
 <!--
 <span class="norm"><br class="style1"></span>I received my Ph.D. degree in <a href="http://cs.nju.edu.cn/" target="_blank">Department of Computer Science and Technology</a> in December 2019 from <a href="https://www.nju.edu.cn/EN/">Nanjing University</a>.
@@ -70,7 +68,7 @@ Research Interests
 Publications
 ======
 <table class="imgtable"><tbody><tr><td>
-<img src="/images/paperimg/2023_INS_ZhipingWu.pdf" alt="HFFDK" width="220px" height="110px">&nbsp;</td>
+<img src="/images/paperimg/2023_INS_ZhipingWu.png" alt="HFFDK" width="220px" height="110px">&nbsp;</td>
 <td align="left"><ul>
 <li><p>Zhiping Wu, <b>Hong Zhao</b>.<br>
  <a href="https://www.sciencedirect.com/science/article/pii/S0020025523005972">Hierarchical Few-Shot Learning with Feature Fusion Driven by Data and Knowledge.</a><br>
@@ -135,17 +133,6 @@ Address:
 Zhiping Wu, National Institute of Healthcare Data Science, Nanjing University, Gulou Campus, 22 Hankou Road,<br>
 Gulou District, Nanjing 210023, China<br>
 <b><font face="华文楷体">(南京市鼓楼区汉口路22号, 南京大学鼓楼校区, 健康医疗大数据国家研究院, 210008.)</font></b></p>
-
-------
-<!--
-<div id="footer">
-<div id="footer-text">
-Page updated on 2015.12.2, via <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
-</div>
-</div>
-</div>
--->
-
 <table class="imgtable" align="center"><tbody><tr><td>
 <a href="https://clustrmaps.com/site/1bul3" title="Visit tracker" ><img src="//www.clustrmaps.com/map_v2.png?d=8WUKkTLRxM6TZtL83E1BsaExyxZTl-DJv0JTBSJpHxg&cl=ffffff" />
 </a>
