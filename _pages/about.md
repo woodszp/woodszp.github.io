@@ -84,52 +84,54 @@ Publications
  <a href="https://www.sciencedirect.com/science/article/pii/S0020025523005972">Hierarchical Few-Shot Learning with Feature Fusion Driven by Data and Knowledge.</a><br>
  In: <em>Information Sciences <b>(INS)</b></em>, 2023, 639: 119012. <br> 
  (Impact Factor: 8.233) <br>
- [<a href="./2023_INS_ZhipingWu.pdf" download="2023_INS_ZhipingWu.pdf">Paper</a>] [<a href="https://github.com/fhqxa/HFFDK.git">Code</a>]
-</p>
-</li>
-</ul>
-</td></tr></tbody></table>
-
-<!--
-<table class="imgtable"><tbody><tr><td>
-<img src="./Paper/CariMe.png" alt="WSFG" width="220px" height="110px">&nbsp;</td>
-<td align="left"><ul>
-<li><p>Zheng Gu, Chuanqi Dong, Jing Huo, <b>Wenbin Li</b>, Yang Gao.<br>
- <a href="https://ieeexplore.ieee.org/document/9454341">CariMe: Unpaired Caricature Generation with Multiple Exaggerations.</a><br>
- In: <em>IEEE Transactions on Multimedia <b>(TMM)</b></em>, 2021.<br> 
- (Impact Factor: 6.513) <br>
- [<a href="./TMM_GuZheng.pdf" download="TMM_GuZheng.pdf">Paper</a>] [<a href="https://github.com/edward3862/CariMe-pytorch.git">Code</a>]
+ [<a href="/files/2023_INS_ZhipingWu.pdf" download="2023_INS_ZhipingWu.pdf">Paper</a>] [<a href="https://github.com/fhqxa/HFFDK.git">Code</a>]
 </p>
 </li>
 </ul>
 </td></tr></tbody></table>
 
 <table class="imgtable"><tbody><tr><td>
-<img src="./Paper/CariMe.png" alt="WSFG" width="220px" height="110px">&nbsp;</td>
+<img src="/images/paperimg/2023_IJMLC_ZhipingWu.png" alt="HFKT" width="220px" height="110px">&nbsp;</td>
 <td align="left"><ul>
-<li><p>Zheng Gu, Chuanqi Dong, Jing Huo, <b>Wenbin Li</b>, Yang Gao.<br>
- <a href="https://ieeexplore.ieee.org/document/9454341">CariMe: Unpaired Caricature Generation with Multiple Exaggerations.</a><br>
- In: <em>IEEE Transactions on Multimedia <b>(TMM)</b></em>, 2021.<br> 
- (Impact Factor: 6.513) <br>
- [<a href="./TMM_GuZheng.pdf" download="TMM_GuZheng.pdf">Paper</a>] [<a href="https://github.com/edward3862/CariMe-pytorch.git">Code</a>]
+<li><p>Zhong Zhang, Zhiping Wu, <b>Hong Zhao</b>, Minjie Hu.<br>
+ <a href="https://link.springer.com/article/10.1007/s13042-022-01640-5">Knowledge transfer based hierarchical few-shot learning via tree-structured knowledge graph.</a><br>
+ In: <em>International Journal of Machine Learning and Cybernetics <b>(IJMLC)</b></em>, 2023, 14: 281–294. <br> 
+ (Impact Factor: 4.377) <br>
+ [<a href="/files/2023_IJMLC_ZhipingWu.pdf" download="2023_IJMLC_ZhipingWu.pdf">Paper</a>] [<a href="https://github.com/fhqxa/HFKT.git">Code</a>]
 </p>
 </li>
 </ul>
 </td></tr></tbody></table>
--->
+
+<table class="imgtable"><tbody><tr><td>
+<img src="/images/paperimg/2023_AIRE_ZhipingWu.png" alt="HCRN" width="220px" height="110px">&nbsp;</td>
+<td align="left"><ul>
+<li><p>Zhiping Wu, <b>Hong Zhao</b>.<br>
+ <a href="https://link.springer.com/article/10.1007/s10462-022-10223-3">Hierarchical Few-Shot Learning Based on Coarse- and Fine-Grained Relation Network. Artificial intelligence Review.</a><br>
+ In: <em>Artificial Intelligence Review <b>(AIRE)</b></em>, 2023, 56(3): 2011-2023. <br> 
+ (Impact Factor: 9.588) <br>
+ [<a href="/files/2023_AIRE_ZhipingWu.pdf" download="2023_AIRE_ZhipingWu.pdf">Paper</a>] [<a href="https://github.com/fhqxa/HCRN.git">Code</a>]
+</p>
+</li>
+</ul>
+</td></tr></tbody></table>
+
 
 Awards & Honors
 ======
-<!--
+
 <ul>
 <li><p><font face="华文楷体">2022 三好研究生</font></p>
 </li>
 <li><p><font face="华文楷体">2022 国家奖学金</font></p>
 </li>
+
+<!--
 <li><p><font face="华文楷体">2023 福建省优秀硕士论文奖</font></p>
 </li>
-</ul>
 -->
+</ul>
+
 
 Correspondence
 ======
@@ -143,9 +145,8 @@ Address:
 Zhiping Wu, National Institute of Healthcare Data Science, Nanjing University, Gulou Campus, 22 Hankou Road,<br>
 Gulou District, Nanjing 210023, China<br>
 <b><font face="华文楷体">(南京市鼓楼区汉口路22号, 南京大学鼓楼校区, 健康医疗大数据国家研究院, 210008.)</font></b></p>
-<table class="imgtable" align="center"><tbody>
+
 <a href="https://clustrmaps.com/site/1bul3" title="Visit tracker" ><img src="//www.clustrmaps.com/map_v2.png?d=8WUKkTLRxM6TZtL83E1BsaExyxZTl-DJv0JTBSJpHxg&cl=ffffff" width="400px" height="225px" align="center" />
 </a>
-</tbody></table>
 
-------
+
