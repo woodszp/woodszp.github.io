@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<table class="imgtable"><tbody><tr><td>
-<a href="/images/wzpTemp.jpg"><img src="/images/wzpTemp.jpg" alt="/images/wzpTemp.jpg" width="640px" height="307px"></a>&nbsp;</td>
+<table class="imgtable"><tbody><tr>
+<td>
+<a href="/images/git_wzp.jpg"><img src="/images/git_wzp.jpg" alt="/images/wzp.jpg" width="440px" height="300px">
+</a></td>
 <td align="left"><p><b><font size="+3" face="Times New Roman">Zhiping Wu</font> <font size="+3" face="华文楷体">(吴志平)</font></b><br>
 <font size="+2" face="Times New Roman">Research Assistant</font> <font size="+2" face="华文楷体">(科研助理)</font><br><br>
 <a href="https://cs.nju.edu.cn/rl/index_eng.htm">Reasoning & Learning Group</a><br>
@@ -28,8 +30,16 @@ Office: Room 2611, Meng Minwei Building, Gulou Campus of Nanjing University, Nan
 -->
 </td>
 
-<td valign="top" width="144"><a href="http://cs.nju.edu.cn/rl/index_eng.htm" target="_blank"><img height="70" src="/images/rlgroup.jpg" width="236" border="0"></a></td>
-<td valign="top" width="58"><a href="http://www.nju.edu.cn/" target="_blank"><img height="70" src="/images/nju.jpg" width="58" border="0"></a></td></tr></tbody></table>
+<td align="top" width="144">
+<a href="http://cs.nju.edu.cn/rl/index_eng.htm" target="_blank">
+<img height="70" src="/images/rlgroup.jpg" width="236" border="0"></a></td>
+<td align="top" width="58"><a href="http://www.nju.edu.cn/" target="_blank">
+<img height="70" src="/images/nju.jpg" width="58" border="0"></a></td>
+
+
+</tr>
+
+</tbody></table>
 
 Biography
 ======
