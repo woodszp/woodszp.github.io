@@ -1,11 +1,12 @@
 ---
-permalink: /about.html
+permalink: /
 title: "Zhiping Wu @ R&L Group"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about.html
   - /about/
+  - /about.html
+
 ---
 
 <table class="imgtable"><tbody><tr>
