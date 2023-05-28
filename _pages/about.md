@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ZHiping Wu @ R&L Group"
+title: "Zhiping Wu @ R&L Group"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,8 +12,8 @@ redirect_from:
 <td>
 <a href="/images/git_wzp.jpg"><img src="/images/git_wzp.jpg" alt="/images/wzp.jpg" width="440px" height="300px">
 </a></td>
-<td align="left"><p><b><font size="+3" face="Times New Roman">Zhiping Wu</font> <font size="+3" face="华文楷体">(吴志平)</font></b><br>
-<font size="+2" face="Times New Roman">Research Assistant</font> <font size="+2" face="华文楷体">(科研助理)</font><br><br>
+<td align="left"><p><b><font size="+2" face="Times New Roman">Zhiping Wu</font> <font size="+2" face="华文楷体">(吴志平)</font></b><br>
+<font size="+1" face="Times New Roman">Research Assistant</font> <font size="+1" face="华文楷体">(科研助理)</font><br><br>
 <a href="https://cs.nju.edu.cn/rl/index_eng.htm">Reasoning & Learning Group</a><br>
 <a href="https://hcdata.nju.edu.cn/">National Institute of Healthcare Data Science</a> <br>
 <a href="http://cs.nju.edu.cn/">Department of Computer Science and Technology</a> <br>
@@ -143,7 +143,7 @@ Address:
 Zhiping Wu, National Institute of Healthcare Data Science, Nanjing University, Gulou Campus, 22 Hankou Road,<br>
 Gulou District, Nanjing 210023, China<br>
 <b><font face="华文楷体">(南京市鼓楼区汉口路22号, 南京大学鼓楼校区, 健康医疗大数据国家研究院, 210008.)</font></b></p>
-<table class="imgtable" align="center"><tbody>
-<a href="https://clustrmaps.com/site/1bul3" title="Visit tracker" ><img src="//www.clustrmaps.com/map_v2.png?d=8WUKkTLRxM6TZtL83E1BsaExyxZTl-DJv0JTBSJpHxg&cl=ffffff" />
+<table class="imgtable"><tbody>
+<a href="https://clustrmaps.com/site/1bul3" title="Visit tracker" ><img src="//www.clustrmaps.com/map_v2.png?d=8WUKkTLRxM6TZtL83E1BsaExyxZTl-DJv0JTBSJpHxg&cl=ffffff" width="550px" height="275px" align="center" />
 </a>
 </tbody></table>
