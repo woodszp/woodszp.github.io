@@ -56,11 +56,11 @@ Currently, I am an Research Assistant of <a href="http://cs.nju.edu.cn/" target=
 News
 ======
 <ul>
-<li><p><b><font face="Times New Roman">[04/2023]</font></b>: One paper on “Novel class discovery” is accepted to <a href="https://cvpr2023.thecvf.com/">INS 2023</a>.</p>
+<li><p><b><font face="Times New Roman">[04/2023]</font></b>: One paper on “Driven by Data and Knowledge” is accepted to <a href="https://www.sciencedirect.com/journal/information-sciences">INS 2023</a>.</p>
 </li>
-<li><p><b><font face="Times New Roman">[09/2022]</font></b>: One paper on “Novel class discovery” is accepted to <a href="https://cvpr2023.thecvf.com/">IJMLR 2022</a>.</p>
+<li><p><b><font face="Times New Roman">[09/2022]</font></b>: One paper on “tree-structured knowledge graph” is accepted to <a href="https://www.springer.com/journal/13042">IJMLC 2022</a>.</p>
 </li>
-<li><p><b><font face="Times New Roman">[09/2022]</font></b>: One paper on “Novel class discovery” is accepted to <a href="https://cvpr2023.thecvf.com/">AIRE 2022</a>.</p>
+<li><p><b><font face="Times New Roman">[09/2022]</font></b>: One paper on “Coarse- and Fine-Grained” is accepted to <a href="https://www.springer.com/journal/10462">AIRE 2022</a>.</p>
 </li>
 </ul>
 
@@ -145,9 +145,8 @@ Room 2611, Meng Minwei Building, Gulou Campus of Nanjing University.<br>
 Address:
 Zhiping Wu, National Institute of Healthcare Data Science, Nanjing University, Gulou Campus, 22 Hankou Road,<br>
 Gulou District, Nanjing 210023, China<br>
-<b><font face="华文楷体">(南京市鼓楼区汉口路22号, 南京大学鼓楼校区, 健康医疗大数据国家研究院, 210008.)</font></b></p>
-
+<b><font face="华文楷体">(南京市鼓楼区汉口路22号, 南京大学鼓楼校区, 健康医疗大数据国家研究院, 210008.)</font></b> <br>
 <a href="https://clustrmaps.com/site/1bul3" title="Visit tracker" ><img src="//www.clustrmaps.com/map_v2.png?d=8WUKkTLRxM6TZtL83E1BsaExyxZTl-DJv0JTBSJpHxg&cl=ffffff" width="400px" height="225px" align="center" />
 </a>
-
+</p>
 
