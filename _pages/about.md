@@ -78,8 +78,8 @@ Research Interests
 
 Publications
 ======
-<table class="imgtable"><tbody><tr><td>
-<img src="/images/paperimg/2023_INS_ZhipingWu.png" alt="HFFDK" width="220px" height="110px">&nbsp;</td>
+<table class="imgtable"><tbody><tr><td width="220px" height="110px">
+<img src="/images/paperimg/2023_INS_ZhipingWu.png" alt="HFFDK">&nbsp;</td>
 <td align="left"><ul>
 <li><p>Zhiping Wu, <b>Hong Zhao</b>.<br>
  <a href="https://www.sciencedirect.com/science/article/pii/S0020025523005972">Hierarchical Few-Shot Learning with Feature Fusion Driven by Data and Knowledge.</a><br>
@@ -91,8 +91,8 @@ Publications
 </ul>
 </td></tr></tbody></table>
 
-<table class="imgtable"><tbody><tr><td>
-<img src="/images/paperimg/2023_IJMLC_ZhipingWu.png" alt="HFKT" width="220px" height="110px">&nbsp;</td>
+<table class="imgtable"><tbody><tr><td width="220px" height="110px">
+<img src="/images/paperimg/2023_IJMLC_ZhipingWu.png" alt="HFKT">&nbsp;</td>
 <td align="left"><ul>
 <li><p>Zhong Zhang, Zhiping Wu, <b>Hong Zhao</b>, Minjie Hu.<br>
  <a href="https://link.springer.com/article/10.1007/s13042-022-01640-5">Knowledge transfer based hierarchical few-shot learning via tree-structured knowledge graph.</a><br>
@@ -104,8 +104,8 @@ Publications
 </ul>
 </td></tr></tbody></table>
 
-<table class="imgtable"><tbody><tr><td>
-<img src="/images/paperimg/2023_AIRE_ZhipingWu.png" alt="HCRN" width="220px" height="110px">&nbsp;</td>
+<table class="imgtable"><tbody><tr><td width="220px" height="110px">
+<img src="/images/paperimg/2023_AIRE_ZhipingWu.png" alt="HCRN" >&nbsp;</td>
 <td align="left"><ul>
 <li><p>Zhiping Wu, <b>Hong Zhao</b>.<br>
  <a href="https://link.springer.com/article/10.1007/s10462-022-10223-3">Hierarchical Few-Shot Learning Based on Coarse- and Fine-Grained Relation Network. Artificial intelligence Review.</a><br>
