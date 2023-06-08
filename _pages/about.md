@@ -81,7 +81,7 @@ Publications
 <table class="imgtable"><tbody><tr><td width="220px" height="110px">
 <img src="/images/paperimg/2023_INS_ZhipingWu.png" alt="HFFDK">&nbsp;</td>
 <td align="left"><ul>
-<li><p>Zhiping Wu, <b>Hong Zhao</b>.<br>
+<li><p><b>Zhiping Wu</b>, Hong Zhao*.<br>
  <a href="https://www.sciencedirect.com/science/article/pii/S0020025523005972">Hierarchical Few-Shot Learning with Feature Fusion Driven by Data and Knowledge.</a><br>
  In: <em>Information Sciences <b>(INS)</b></em>, 2023, 639: 119012. <br> 
  (Impact Factor: 8.233) <br>
@@ -94,7 +94,7 @@ Publications
 <table class="imgtable"><tbody><tr><td width="220px" height="110px">
 <img src="/images/paperimg/2023_IJMLC_ZhipingWu.png" alt="HFKT">&nbsp;</td>
 <td align="left"><ul>
-<li><p>Zhong Zhang, Zhiping Wu, <b>Hong Zhao</b>, Minjie Hu.<br>
+<li><p>Zhong Zhang, <b>Zhiping Wu</b>, Hong Zhao*, Minjie Hu.<br>
  <a href="https://link.springer.com/article/10.1007/s13042-022-01640-5">Knowledge transfer based hierarchical few-shot learning via tree-structured knowledge graph.</a><br>
  In: <em>International Journal of Machine Learning and Cybernetics <b>(IJMLC)</b></em>, 2023, 14: 281–294. <br> 
  (Impact Factor: 4.377) <br>
@@ -107,7 +107,7 @@ Publications
 <table class="imgtable"><tbody><tr><td width="220px" height="110px">
 <img src="/images/paperimg/2023_AIRE_ZhipingWu.png" alt="HCRN" >&nbsp;</td>
 <td align="left"><ul>
-<li><p>Zhiping Wu, <b>Hong Zhao</b>.<br>
+<li><p><b>Zhiping Wu</b>, Hong Zhao*.<br>
  <a href="https://link.springer.com/article/10.1007/s10462-022-10223-3">Hierarchical Few-Shot Learning Based on Coarse- and Fine-Grained Relation Network. Artificial intelligence Review.</a><br>
  In: <em>Artificial Intelligence Review <b>(AIRE)</b></em>, 2023, 56(3): 2011-2023. <br> 
  (Impact Factor: 9.588) <br>
@@ -137,16 +137,16 @@ Awards & Honors
 Correspondence
 ======
 <p>Email:
-<a href="mailto:wuzhiping@nju.edu.cn">wuzhiping@nju.edu.cn</a>;
+<a href="mailto:wuzhiping@nju.edu.cn">wuzhiping@nju.edu.cn</a>;  
 <a href="mailto:zhipingwucn@gmail.com">zhipingwucn@gmail.com</a>
 <br>
 Office:
 Room 2611, Meng Minwei Building, Gulou Campus of Nanjing University.<br>
 Address:
-Zhiping Wu, National Institute of Healthcare Data Science, Nanjing University, Gulou Campus, 22 Hankou Road,<br>
-Gulou District, Nanjing 210023, China<br>
-<b><font face="华文楷体">(南京市鼓楼区汉口路22号, 南京大学鼓楼校区, 健康医疗大数据国家研究院, 210008.)</font></b> <br>
-<a href="https://clustrmaps.com/site/1bul3" title="Visit tracker" ><img src="//www.clustrmaps.com/map_v2.png?d=8WUKkTLRxM6TZtL83E1BsaExyxZTl-DJv0JTBSJpHxg&cl=ffffff" width="400px" height="225px" align="center" />
+Zhiping Wu, National Institute of Healthcare Data Science, Nanjing University, Gulou Campus, 22 Hankou Road, Gulou District, Nanjing 210023, China<br>
+<b><font face="华文楷体">(南京市鼓楼区汉口路22号, 南京大学鼓楼校区, 健康医疗大数据国家研究院, 210008.)</font></b> </p>
+<p text-align="center" >
+<a href="https://clustrmaps.com/site/1bul3" title="Visit tracker" ><img src="//www.clustrmaps.com/map_v2.png?d=8WUKkTLRxM6TZtL83E1BsaExyxZTl-DJv0JTBSJpHxg&cl=ffffff" width="400px" height="225px" text-align="center" />
 </a>
 </p>
 
