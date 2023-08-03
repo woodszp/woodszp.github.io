@@ -20,11 +20,10 @@ redirect_from:
 <a href="http://cs.nju.edu.cn/">Department of Computer Science and Technology</a> <br>
 <a href="http://keysoftlab.nju.edu.cn/site/ndjsjx/">State Key Laboratory for Novel Software Technology</a> <br>
 <a href="http://www.nju.edu.cn/">Nanjing University</a><br><br>
-Email: <a href="mailto:wuzhiping@nju.edu.cn">wuzhiping@nju.edu.cn</a>; <a href="mailto:zhipingwucn@gmail.com">zhipingwucn@gmail.com</a><br>
+Email: <a href="mailto:zhipingwu@nju.edu.cn">zhipingwu@nju.edu.cn</a>; <a href="mailto:zhipingwucn@gmail.com">zhipingwucn@gmail.com</a><br>
 Office: Room 2611, Meng Minwei Building, Gulou Campus of Nanjing University, Nanjing 210008, China</p>
-<!--
-[<a href="https://scholar.google.com/citations?user=K-kC4yYAAAAJ&hl=zh-CN&authuser=1"><span style="color:purple">Google Scholar</span></a>]
--->
+
+[<a href="https://scholar.google.com/citations?user=6qHDShwAAAAJ&hl=en"><span style="color:purple">Google Scholar</span></a>]
 [<a href="https://github.com/woodszp"><span style="color:purple">Github</span></a>]
 <!--
 [<a href="https://github.com/RL-VIG"><span style="color:purple">Github-VIG</span></a>]
@@ -137,7 +136,7 @@ Awards & Honors
 Correspondence
 ======
 <p>Email:
-<a href="mailto:wuzhiping@nju.edu.cn">wuzhiping@nju.edu.cn</a>;  
+<a href="mailto:zhipingwu@nju.edu.cn">zhipingwu@nju.edu.cn</a>;  
 <a href="mailto:zhipingwucn@gmail.com">zhipingwucn@gmail.com</a>
 <br>
 Office:
@@ -146,7 +145,7 @@ Address:
 Zhiping Wu, National Institute of Healthcare Data Science, Nanjing University, Gulou Campus, 22 Hankou Road, Gulou District, Nanjing 210023, China<br>
 <b><font face="华文楷体">(南京市鼓楼区汉口路22号, 南京大学鼓楼校区, 健康医疗大数据国家研究院, 210008.)</font></b> </p>
 <p text-align="center" >
-<a href="https://clustrmaps.com/site/1bul3" title="Visit tracker" ><img src="//www.clustrmaps.com/map_v2.png?d=8WUKkTLRxM6TZtL83E1BsaExyxZTl-DJv0JTBSJpHxg&cl=ffffff" width="400px" height="225px" text-align="center" />
+<a href="https://clustrmaps.com/site/1bul3"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=8WUKkTLRxM6TZtL83E1BsaExyxZTl-DJv0JTBSJpHxg&cl=ffffff" width="400px" height="225px" text-align="center"/>
 </a>
 </p>
 
