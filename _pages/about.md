@@ -145,6 +145,7 @@ Address:
 Zhiping Wu, National Institute of Healthcare Data Science, Nanjing University, Gulou Campus, 22 Hankou Road, Gulou District, Nanjing 210023, China<br>
 <b><font face="华文楷体">(南京市鼓楼区汉口路22号, 南京大学鼓楼校区, 健康医疗大数据国家研究院, 210008.)</font></b> </p>
 <p text-align="center" >
-<a href='https://clustrmaps.com/site/1bul3'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=a&t=tt&d=8WUKkTLRxM6TZtL83E1BsaExyxZTl-DJv0JTBSJpHxg&co=ffffff&ct=1f0404' width="400px" height="225px" text-align="center"  /></a>
+<a href='https://clustrmaps.com/site/1bul3'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=8WUKkTLRxM6TZtL83E1BsaExyxZTl-DJv0JTBSJpHxg&co=2d78ad&ct=ffffff' width="400px" height="225px" text-align="center"  /></a>
+
 </p>
 
