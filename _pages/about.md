@@ -78,6 +78,20 @@ Research Interests
 Publications
 ======
 <table class="imgtable"><tbody><tr><td width="220px" height="110px">
+<img src="/images/paperimg/2024_tnnls_ZhipingWu.png" alt="CSTS">&nbsp;</td>
+<td align="left"><ul>
+<li><p>Hong Zhao, Yuling Su, <b>Zhiping Wu</b>, Weiping Ding<br>
+ <a href="">CSTS: Exploring Class-specific and Task-shared Embedding Representation for Few-shot Learning.</a><br>
+ In: <em>IEEE Transactions on Neural Networks and Learning Systems <b>(TNNLS)</b></em>, <br> 
+ (Impact Factor: 10.4) <br>
+ [<a href="/files/2024_TNNLS_ZhipingWu.pdf" download="2024_TNNLS_ZhipingWu.pdf">Paper</a>] [<a href="https://github.com/fhqxa/HFFDK.git">Code</a>]
+</p>
+</li>
+</ul>
+</td></tr></tbody></table>
+
+
+<table class="imgtable"><tbody><tr><td width="220px" height="110px">
 <img src="/images/paperimg/2023_INS_ZhipingWu.png" alt="HFFDK">&nbsp;</td>
 <td align="left"><ul>
 <li><p><b>Zhiping Wu</b>, Hong Zhao*.<br>
@@ -145,6 +159,7 @@ Address:
 Zhiping Wu, National Institute of Healthcare Data Science, Nanjing University, Gulou Campus, 22 Hankou Road, Gulou District, Nanjing 210023, China<br>
 <b><font face="华文楷体">(南京市鼓楼区汉口路22号, 南京大学鼓楼校区, 健康医疗大数据国家研究院, 210008.)</font></b> </p>
 <p text-align="center" >
+<!-- <a href='https://clustrmaps.com/site/1bul3'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=8WUKkTLRxM6TZtL83E1BsaExyxZTl-DJv0JTBSJpHxg&co=2d78ad&ct=ffffff'  /></a> -->
 <a href='https://clustrmaps.com/site/1bul3'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=8WUKkTLRxM6TZtL83E1BsaExyxZTl-DJv0JTBSJpHxg&co=2d78ad&ct=ffffff' width="400px" height="225px" text-align="center"  /></a>
 
 </p>
