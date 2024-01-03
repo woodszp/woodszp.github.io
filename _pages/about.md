@@ -57,6 +57,9 @@ News
 <ul>
 <li><p><b><font face="Times New Roman">[12/2023]</font></b>: One paper on “Class-specific and Task-shared Embedding Representation” is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">TNNLS 2023</a>.</p>
 </li>
+<ul>
+<li><p><b><font face="Times New Roman">[11/2023]</font></b>: Held the "Continual Learning: Fundamentals and Advances" workshop <a href="http://dai-cl.github.io/">DAI 2023</a>.</p>
+</li>
 <li><p><b><font face="Times New Roman">[04/2023]</font></b>: One paper on “Driven by Data and Knowledge” is accepted to <a href="https://www.sciencedirect.com/journal/information-sciences">INS 2023</a>.</p>
 </li>
 <li><p><b><font face="Times New Roman">[09/2022]</font></b>: One paper on “tree-structured knowledge graph” is accepted to <a href="https://www.springer.com/journal/13042">IJMLC 2022</a>.</p>
