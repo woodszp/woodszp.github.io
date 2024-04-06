@@ -85,9 +85,9 @@ Publications
 <img src="/images/paperimg/2024_tnnls_ZhipingWu.png" alt="CSTS">&nbsp;</td>
 <td align="left"><ul>
 <li><p>Hong Zhao*, Yuling Su, <b>Zhiping Wu</b>, Weiping Ding.<br>
- <a href="">CSTS: Exploring Class-specific and Task-shared Embedding Representation for Few-shot Learning.</a><br>
+ <a href="https://ieeexplore.ieee.org/abstract/document/10486859">CSTS: Exploring Class-specific and Task-shared Embedding Representation for Few-shot Learning.</a><br>
  In: <em>IEEE Transactions on Neural Networks and Learning Systems <b>(TNNLS)</b></em>, <br> 
- (Impact Factor: 10.4) <br>
+ (Impact Factor: 10.4, CCF-B) <br>
  [<a href="/files/2024_TNNLS_ZhipingWu.pdf" download="2024_TNNLS_ZhipingWu.pdf">Paper</a>] [<a href="https://github.com/fhqxa/CSTS.git">Code</a>]
 </p>
 </li>
@@ -101,7 +101,7 @@ Publications
 <li><p><b>Zhiping Wu</b>, Hong Zhao*.<br>
  <a href="https://www.sciencedirect.com/science/article/pii/S0020025523005972">Hierarchical Few-Shot Learning with Feature Fusion Driven by Data and Knowledge.</a><br>
  In: <em>Information Sciences <b>(INS)</b></em>, 2023, 639: 119012. <br> 
- (Impact Factor: 8.233) <br>
+ (Impact Factor: 8.233, CCF-B) <br>
  [<a href="/files/2023_INS_ZhipingWu.pdf" download="2023_INS_ZhipingWu.pdf">Paper</a>] [<a href="https://github.com/fhqxa/HFFDK.git">Code</a>]
 </p>
 </li>
