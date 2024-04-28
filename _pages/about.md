@@ -55,6 +55,10 @@ Currently, I am an Research Assistant of <a href="http://cs.nju.edu.cn/" target=
 News
 ======
 <ul>
+<li><p><b><font face="Times New Roman">[05/2024]</font></b>: Our <a href="https://acmmm-cl.github.io/">CL-MMFM-24</a> will be held at the <a href="https://2024.acmmm.org/workshop-proposals">ACMM MM 2024 workshop</a>.</p>
+</li>
+<li><p><b><font face="Times New Roman">[04/2024]</font></b>: Make <a href="https://github.com/RL-VIG/LibContinual">continual learning</a> easy.</p>
+</li>
 <li><p><b><font face="Times New Roman">[12/2023]</font></b>: One paper on “Class-specific and Task-shared Embedding Representation” is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">TNNLS 2023</a>.</p>
 </li>
 <li><p><b><font face="Times New Roman">[11/2023]</font></b>: Held the "Continual Learning: Fundamentals and Advances" workshop <a href="http://dai-cl.github.io/">DAI 2023</a>.</p>
